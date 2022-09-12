@@ -1,7 +1,7 @@
 # ts-axios
 
 使用 TypeScript 从零实现一个 axios
-
+文档站 http://ts.jsanntq.cn/
 ## Features
 
 - 在浏览器端使用 XMLHttpRequest 对象通讯
